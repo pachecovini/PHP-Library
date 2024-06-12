@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BookClassTest::testAddBook":7,"BookClassTest::testDeleteBook":7,"OtherResourceTest::testAddResource":7,"BookClassTest::testAddAndSearchBook":8},"times":{"BookClassTest::testAddBook":0.035,"BookClassTest::testDeleteBook":8.509,"OtherResourceTest::testAddResource":6.283,"BookClassTest::testAddAndSearchBook":0.064,"BookClassTest::testSearchBook":0.007}}
