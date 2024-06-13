@@ -9,7 +9,7 @@ runApplication();
 
 function Menu()
 {
-    echo "\nLibrary Management System\n";
+    echo "\nMaddington Library Management System\n";
     echo "1. Generate Book List\n";
     echo "2. Generate Resource List\n";
     echo "3. Add New Book\n";
